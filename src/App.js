@@ -1,4 +1,4 @@
-import { CssBaseline, Grid } from '@mui/material';
+import { CssBaseline, Grid } from '@material-ui/core';
 import './App.css';
 import Header from './components/Header/Header';
 import List from './components/List/List';
